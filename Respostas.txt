@@ -1,0 +1,13 @@
+1) Tem como função carregar e executar os aplicativos java,convertendo os bytecodes em código executável de máquina.Através dela que  os programas escritos em  java podem funcionar em qualquer plataforma de hardware e software que possua uma versão da jvm,tornando essas aplicações indepedentes da plataforma onde funcionam.
+
+
+2) A diferença é que o JRE é o ambiente de execução do java, ou seja, para executar uma aplicação java, é necessario ter uma JRE instalada. Ja o JDK é ambiente de desenvolvimento do java, porque ele fornece, todos os componentes necessarios para realizar a construção de aplicações, como por exemplo o compilador (Javac), a Java Lang (Linguagem java) e etc.
+
+
+4) O programa não compila se apagar o arquivo .class
+
+5) Se o nome do metodo main for alterado para "start", o programa não irá compilar pois o nome do metodo principal (main) deve ser igual ao da classe principal (Main).
+
+7) O programa não compilou,apresentou alguns erros pois java é uma linguagem que destingue letras maiúsculas de minusculas em suas funções e métodos e também em todos os comandos.
+
+8) O programa não compila pois o nome da classe principal (Main) tem que ser igual ao nome do arquivo a qual ela pertence.
